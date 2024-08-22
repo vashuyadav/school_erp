@@ -1,0 +1,7 @@
+.content-wrapper>.content {
+    padding: 7px 0;
+}
+.card-header{
+    background-color: grey;
+    color: white;
+}
